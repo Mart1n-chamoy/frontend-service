@@ -7,4 +7,5 @@ Este repositorio contiene el microservicio de frontend del sistema de tienda en 
 - CI: GitHub Actions
 - Imagen: Docker (mart1n-chamoy/frontend)
 
-----------
+----------------
+---------
