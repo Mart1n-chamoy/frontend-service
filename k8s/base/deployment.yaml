@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: mart1n-chamoy/frontend:latest
+          image: martin555/frontend:latest
           ports:
             - containerPort: 8080
